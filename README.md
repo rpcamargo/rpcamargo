@@ -5,6 +5,9 @@
   <h6>Manuteção em computadores e notebooks;</h6>
   <h6>Gerenciamento de sistema ERP;</h6>
   <h6>Suporte ao usuário de diversos segmentos;</h6>
+  
+  <h5>Como formação acadêmica possuo:<h5/>
+  <h6>Técnologo em Redes de Computadores<h6/>
 
  
   <h5>Atualmente estudando Desenvolvimento Web, para conseguir em um futuro proximo engressar nesta área.</h5>
