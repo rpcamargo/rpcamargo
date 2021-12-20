@@ -10,7 +10,7 @@
   <h6>Técnologo em Redes de Computadores<h6/>
 
  
-  <h5>Atualmente estudando Desenvolvimento Web, para conseguir em um futuro proximo engressar nesta área.</h5>
+  <h5>Atualmente estudando Desenvolvimento Web, para conseguir em um futuro proximo ingressar nesta área.</h5>
 
   <div align="center">
     <a href="https://github.com/rpcamargo">
