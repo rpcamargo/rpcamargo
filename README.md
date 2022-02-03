@@ -1,16 +1,14 @@
 ### <h3>Olá! Me chamo Rafael Prado</h3>
 
-  <h5>Possuo 4 anos de experiência como Técnico de Informática realizando as seguintes tarefas:</h5>
-  <h6>Administração e configuração de redes;</h6>
-  <h6>Manuteção em computadores e notebooks;</h6>
-  <h6>Gerenciamento de sistema ERP;</h6>
-  <h6>Suporte ao usuário de diversos segmentos;</h6>
-  
-  <h5>Como formação acadêmica possuo:<h5/>
-  <h6>Técnologo em Redes de Computadores<h6/>
+  Sou desenvolvedor Front-end e gosto de desenvolver e aplicar meus conhecimentos com diferentes projetos.
 
- 
-  <h5>Atualmente estudando Desenvolvimento Web, para conseguir em um futuro proximo ingressar nesta área.</h5>
+Gosto de trabalhar em equipe, tenho bastante paciência e persistência para aprender, e pretendo colocar meus conhecimentos em prática para agregar em todo tipo de solução.
+
+Tecnologias que venho utilizando:
+HTML5, CSS3, JavaScript, React e GIT.
+
+Sempre aberto a sugestões e novas tecnologias, procurando me desenvolver o máximo possível na área e descobrir todo tipo de inovação!
+
 
   <div align="center">
     <a href="https://github.com/rpcamargo">
@@ -24,6 +22,7 @@
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
   
 <!--
